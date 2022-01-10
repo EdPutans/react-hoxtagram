@@ -27,7 +27,7 @@ img {
   gap: 25px;
 }
 
-
+/* The following styles should probs stay here since they're shared by multiple components */
 
 .comment-form {
   /* width: 100%; */
