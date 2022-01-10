@@ -1,0 +1,70 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "title": "Coder dog",
+      "likes": 11,
+      "image": "./assets/coder-dog.png"
+    },
+    {
+      "id": 2,
+      "title": "Coder cats",
+      "likes": 5,
+      "image": "./assets/coder-cat.jpeg"
+    },
+    {
+      "title": "Test",
+      "image": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBxMTEhUTExMWFRUWFxgaGBcYGBgZGBYYFxcYGBcaGBgYHSggGB4mHh4eITEhJSkrLi4uGR8zODMsNygwLisBCgoKDg0OGxAQGy0lICUtLS0vListLS0xLy8tNS0tLy0vLy0tNS0vLS0tLSstLS0wLS4tLS0tLy0tLS0tLSsvLf/AABEIAKgBLAMBIgACEQEDEQH/xAAbAAACAgMBAAAAAAAAAAAAAAAFBgMEAAIHAf/EAEMQAAIBAgQFAgQDBQYEBQUAAAECEQMhAAQSMQUGIkFRE2EyQnGBI5GhFFJiscEHM5LR4fAVJILxQ1OistIWF3Kj4v/EABoBAAIDAQEAAAAAAAAAAAAAAAIEAQMFAAb/xAAxEQACAgEDAgUCBQQDAQAAAAABAgARAwQhMRJBEyJRYYEycRQjkbHBodHw8TNCUkP/2gAMAwEAAhEDEQA/AFLNPJpUJ+FfUrE9lTsfq+/0xXFZax9aqQlBT+GrW1kfOw7+w/2RGczijUSf7wjpm/pJamh30iIYnc2Eb4tcFRWYO8lyTpJCuoC76bgACwlZ7RGwUOOluaIzdTV/ntDVHOtU/uqZK/vMdIY+wgsB7kf54mK/T3i98VqFbW8a0v8AK1OqpMeC5gn6DFs0mG5B+gj+pwu1Ax5bYXz+k0jGacbaTjdRjrgSOMbAYnFLHmnEXJqQhcbBTiTTjwrjp000490490Y9C46dNdOMCYlUY9VLkT4P2P8AqDiOqEFuRaMe6MS6MZpxNwSJGExtoPbG8Ymy7gGSs+BOBYwlFmUyhxrowdBp1BcCmQN739sDa6CbbdsCr3CbHUqBMQZXhRbMNVYbQEPtov8AaWYf9Ixd04lSqw2OCLEXUEKDV9t4E53pxlrGwIB97iP5E457jonOAP7I8+U/9wxzvDmk/wCP5mdrv+X4nWWTpH0H8sVygxcrUzAtFhisUwmJotISox4RiXTjz",
+      "likes": 4,
+      "id": 3
+    },
+    {
+      "title": "da",
+      "image": "dadada",
+      "likes": 0,
+      "id": 4
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "content": "What a cute dog!",
+      "imageId": 1
+    },
+    {
+      "id": 2,
+      "content": "He has the paws for this!",
+      "imageId": 2
+    },
+    {
+      "id": 3,
+      "content": "Someone's in trouble!",
+      "imageId": 2
+    },
+    {
+      "imageId": 1,
+      "content": "Funny dog!!",
+      "id": 4
+    },
+    {
+      "imageId": 1,
+      "content": "Hes a good boy!!",
+      "id": 5
+    },
+    {
+      "imageId": 1,
+      "content": "d",
+      "id": 6
+    },
+    {
+      "imageId": 1,
+      "content": "a",
+      "id": 7
+    },
+    {
+      "imageId": 3,
+      "content": "test",
+      "id": 8
+    }
+  ]
+}
